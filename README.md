@@ -18,9 +18,17 @@ A simple backend library management system built with MongoDB, Express.js and No
   * Book
   
 ## User module functionalities
-  * Sign up
+  * Sign up - send confirmation email with link
+  * Confirm email - Clicking on the link in the confirmation mail
   * Login
   * Log out
   * Get user account info
   * Update user account
   * Delete user account
+  * Upload Profile Picture (Local - cloud)
+
+## Book module functionalities
+ * Get all books info
+ * Admin User:
+  - Create book doc
+  - Upload book picture (local - cloud)
