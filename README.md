@@ -27,8 +27,14 @@ A simple backend library management system built with MongoDB, Express.js and No
   * Delete user account
   * Upload Profile Picture (Local - cloud)
 
+## Issue module functionalities
+  * Issue book (borrow)
+  * Get logged in user's issued books
+  * Get logged in user's not returned books
+  * Return book
+
 ## Book module functionalities
  * Get all books info
  * Admin User:
-  - Create book doc
-  - Upload book picture (local - cloud)
+   - Create book doc
+   - Upload book picture (local - cloud)
