@@ -12,7 +12,7 @@ A simple backend library management system built with MongoDB, Express.js and No
   * multer.js
   * Cloudinary
 
-## App is divided into two modules
+## App is divided into three modules
   * User
   * Issue
   * Book
